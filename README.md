@@ -82,10 +82,6 @@ Resume Screening with Python.ipynb
 
 ---
 
-## 👩‍💻 Author
-Rishita Makkar
-📧 Email: rishita.m@example.com
-🌐 LinkedIn (Update with your profile)
 
 ## 🏷️ Tags
 #NLP #Streamlit #MachineLearning #ResumeClassifier #AIRecruitment #PortfolioProject
